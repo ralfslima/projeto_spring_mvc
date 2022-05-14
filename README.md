@@ -1,4 +1,4 @@
-<h1>Projeto Spring MVC, Hybernate, JSP, MySQL e Bootstrap</h1>
+<h1>Projeto Spring MVC, Hibernate, JSP, MySQL e Bootstrap</h1>
 <p>Estrutura básica de um CRUD para manipular produtos, testado nos servidores Apache Tomcat versão 9 e WildFly versão 24.1</p>
 
 <hr>
